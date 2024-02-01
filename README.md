@@ -11,5 +11,5 @@
 ### Installation
 - First need that you have to installed node in you pc. You can download it by click this link - [https://nodejs.org/en]
 - npm install
-- npm run android  #####or npx expo start
+- npm run android or npx expo start
 - You also need to install the expo go app. To run by the expo.
